@@ -14,8 +14,8 @@ white='[37;1m'
 yellow='[33;1m'
 toilet -f future "[=X-Sploit=]" --gay
 echo "[===============================]" | lolcat
-echo $blue"author:xcloownss " #Ubah Nama Kamu
-echo $blue"instagram:_qtsrf44"         # Ubah Facebook Kamu
+echo $blue"author:XcLoWnS " #Ubah Nama Kamu
+echo $blue"instagram:rapaaxd_"         # Ubah Facebook Kamu
 echo "[===============================]" | lolcat
 sleep 1
 echo "Selamat Datang Di X-Sploit" | lolcat
